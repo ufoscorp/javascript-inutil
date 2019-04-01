@@ -1,0 +1,30 @@
+{
+  "name": "naoclica",
+  "version": "1.0.0",
+  "description": "nao clica no botao!!!",
+  "main": "NAOCLICA.js",
+  "scripts": {
+	  "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ufoscorp/javascript-inutil.git"
+  },
+  "keywords": [
+    "javascript",
+    "inutil",
+    "nodejs"
+  ],
+  "author": "Davi William Moraes Suga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ufoscorp/javascript-inutil/issues"
+  },
+  "homepage": "https://github.com/ufoscorp/javascript-inutil#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "material-components-web": "^1.0.1",
+    "mongodb": "^2.2.33",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
